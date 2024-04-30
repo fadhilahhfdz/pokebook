@@ -18,12 +18,12 @@ const About = () => {
           />
         </div>
         <p className="mb-4">
-          PokeBook merupakan sumber informasi mengenai Pokémon. Kami menyediakan
+          PokeBook merupakan sumber informasi mengenai Pokémon. Dengan menyediakan
           data lengkap tentang berbagai Pokémon, termasuk detail tentang jenis
           dan kemampuan.
         </p>
         <p className="mb-4">
-          Tim kami berkomitmen untuk memberikan informasi yang akurat dan
+          Berkomitmen untuk memberikan informasi yang akurat dan
           terbaru kepada para penggemar Pokémon di seluruh dunia.
         </p>
       </div>
